@@ -7,3 +7,5 @@
 -   Print natural numbers 1 to n - Iterative Method
 5. Fibonacci Sequence - Recursion
 6. Hashing-Python
+7. Count Vowels - Recursive Method
+8. Count Vowels - Iterative Method
