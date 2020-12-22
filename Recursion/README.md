@@ -9,3 +9,5 @@
 6. Hashing-Python
 7. Count Vowels - Recursive Method
 8. Count Vowels - Iterative Method
+9. First Search Occurrence - Recursive Method
+10. Compute Square of Number - Recursive Method
